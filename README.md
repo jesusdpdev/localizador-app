@@ -1,4 +1,4 @@
-# 📍 GeoApplication React App
+# 📍 GPS Application React App
 
 ¡Bienvenido a **GeoLocate**! Una aplicación moderna construida con **React** y **Tailwind CSS** que permite a los usuarios descubrir información detallada sobre su conexión a internet y ubicación geográfica en tiempo real.
 
