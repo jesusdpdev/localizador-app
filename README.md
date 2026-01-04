@@ -1,4 +1,4 @@
-# 📍 GeoLocate React App
+# 📍 GeoApplication React App
 
 ¡Bienvenido a **GeoLocate**! Una aplicación moderna construida con **React** y **Tailwind CSS** que permite a los usuarios descubrir información detallada sobre su conexión a internet y ubicación geográfica en tiempo real.
 
@@ -18,3 +18,4 @@
 * [Tailwind CSS](https://tailwindcss.com/) - Framework de diseño.
 * [Abstract API](https://www.abstractapi.com/) - Servicio de Geolocalización.
 * [Vite](https://vitejs.dev/) - Herramienta de construcción rápida.
+* Appi Consumida gracias a (https://www.abstractapi.com/api/ip-intelligence)
