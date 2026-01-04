@@ -2,7 +2,8 @@
 
 ¡Bienvenido a **GeoLocate**! Una aplicación moderna construida con **React** y **Tailwind CSS** que permite a los usuarios descubrir información detallada sobre su conexión a internet y ubicación geográfica en tiempo real.
 
-![Screenshot de la App](![alt text](image.png))
+<img width="1365" height="767" alt="Captura de pantalla 2026-01-04 161053" src="https://github.com/user-attachments/assets/bad7e17c-a61c-4d7d-aa38-e38c5205bd6d" />
+
 
 ## 🚀 Características
 - 📡 **Detección de IP:** Identifica la dirección IP pública del usuario.
